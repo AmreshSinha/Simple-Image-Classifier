@@ -9,4 +9,4 @@ Just Run The Streamlit-Webapp in google colab or jupyter notebook and open the n
 
 Upload the Image and click on Predict.
 
-![Video](https://youtu.be/NY5678JVQOM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NY5678JVQOM/0.jpg)](https://www.youtube.com/watch?v=NY5678JVQOM)
