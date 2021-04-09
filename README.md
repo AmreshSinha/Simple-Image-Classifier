@@ -1,2 +1,3 @@
 # Simple-Image-Classifier
-A Simple Image Classifier for Hack-A-Nova
+A Simple Image Classifier made in Python | Hack-A-Nova
+***
